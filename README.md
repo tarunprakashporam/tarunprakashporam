@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/poramtarun" target="blank"><img src="https://img.shields.io/twitter/follow/poramtarun?logo=twitter&style=for-the-badge" alt="poramtarun" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://gatesheet.me/Portfolio/](https://gatesheet.me/Portfolio/)
 
